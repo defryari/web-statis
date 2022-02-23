@@ -1,0 +1,10 @@
+Web Statis adalah web yang content atau isinya tidak berubah-ubah.
+Maksudnya adalah isi dari dokumen yang ada di web tersebut tidak dapat diubah secara mudah. 
+Ini dikarenakan karena script yang digunakan untuk membut web statis tidak mendukung untuk mengubah isi dokumen. 
+Karena script yang digunakan untuk membuat pengertian web statis ini seperti HTML, Cascading Style Sheet atau biasa disebut dengan CSS. 
+Maka dari itu untuk perubahan isi dokumen pada web statis harus mengubah isi file HTML atau CSS tersebut.
+Tentunya bagi orang awam atau orang yang tidak mengerti soal program atau script HTML dan CSS akan sangat sulit sekali dilakukan. 
+Untuk itu jika kita ingin mengubah dokumen web statis harus mengerti benar scipt HTML atau CSS atau sering disebut programmer yang dapat melakukan perubahan isi dokumen sebuah web statis. 
+Web statis ini biasanya digunakan oleh website yang menggunakan HTML, Web Search Engine, atau web Company Profile
+ Contoh Website Statis
+Web Company profile yang tidak ada fitur chat dan informasi terbaru setiap harinya bisa termasuk ke dalam website statis.
